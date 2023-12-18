@@ -258,7 +258,7 @@ private InfDB idb;
                 new LoginJFrame().setVisible(true);
                 
                 
-                
+                System.out.println("hej");
                 
             }
         });
