@@ -1,5 +1,4 @@
-package mibsys;
-
+package javaapplication3;
 
 import javax.swing.JOptionPane;
 import oru.inf.InfDB;
