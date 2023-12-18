@@ -257,6 +257,9 @@ private InfDB idb;
             public void run() {
                 new LoginJFrame().setVisible(true);
                 
+                
+                
+                
             }
         });
     }
